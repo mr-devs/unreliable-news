@@ -1,4 +1,7 @@
-# Unreliable News Sites (UNS)
+# This was forked from https://github.com/hearvox/unreliable-news. 
+I wanted to save this because there are a lot of great resources in here...
+
+## Unreliable News Sites (UNS)
 An index of fake-news, clickbait, and hate websites, for Columbia Journalism Review (to be published Jan. 2019).
 
 * <a href="https://github.com/hearvox/unreliable-news/projects/1">GitHub Project page</a>
